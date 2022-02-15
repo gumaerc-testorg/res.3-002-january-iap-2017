@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/6a1ac09ee79a3b88be45a782edcc1f92_LP1.jpg
+file: /media/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/6a1ac09ee79a3b88be45a782edcc1f92_LP1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Long Project
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: Long Project 1
 uid: 6a1ac09e-e79a-3b88-be45-a782edcc1f92

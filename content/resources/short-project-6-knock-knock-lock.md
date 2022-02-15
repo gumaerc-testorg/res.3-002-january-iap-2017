@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Short Project
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Short Project 6: Knock Knock Lock'
 uid: 7714ebfd-3200-da3a-9e9f-471c6b421215
 video_files:
   archive_url: https://archive.org/download/MITRES.3-002IAP17/MITRES_3-002IAP17_Short_Project_6_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/3f8b1864238251c595706fe3882387b8_uPoKChMBeQY.vtt
+  video_captions_file: /courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/3f8b1864238251c595706fe3882387b8_uPoKChMBeQY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/uPoKChMBeQY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/6cfa3a292941fdd546f6c2e8c546f3fc_uPoKChMBeQY.pdf
+  video_transcript_file: /courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/6cfa3a292941fdd546f6c2e8c546f3fc_uPoKChMBeQY.pdf
 video_metadata:
   youtube_id: uPoKChMBeQY
 ---

@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Projects
+optional_tab_title: ''
+optional_text: ''
+parent_title: Long Project
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Long Project 3: LED Framed Light Display Part 1'
 uid: 5914f5c0-38a9-ffa8-0df1-232cd536a9c9
 video_files:
   archive_url: https://archive.org/download/MITRES.3-002IAP17/MITRES_3-002IAP17_Long_Project_3_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/940befbb13a65637a58ef7fcf1941f96_ttuvXdZNcDM.vtt
+  video_captions_file: /courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/940befbb13a65637a58ef7fcf1941f96_ttuvXdZNcDM.vtt
   video_thumbnail_file: https://img.youtube.com/vi/ttuvXdZNcDM/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/13480c1d51c856486aa7affdc7d9fd71_ttuvXdZNcDM.pdf
+  video_transcript_file: /courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/13480c1d51c856486aa7affdc7d9fd71_ttuvXdZNcDM.pdf
 video_metadata:
   youtube_id: ttuvXdZNcDM
 ---

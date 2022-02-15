@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Class Activities
+parent_type: SupplementalResourceSection
 parent_uid: b6e4204b-938c-bbc2-5b6a-925b625b04bf
 title: Expanding on Tutorials
 uid: 0d44de95-825a-a63a-7b91-a868679f2427

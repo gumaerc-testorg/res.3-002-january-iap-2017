@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Projects
+optional_tab_title: ''
+optional_text: ''
+parent_title: Long Project
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Long Project 2: Hand Motion Controlled Car'
 uid: 43bce616-5b42-46eb-9ee6-3bd6bd2cf45e
 video_files:
   archive_url: https://archive.org/download/MITRES.3-002IAP17/MITRES_3-002IAP17_Long_Project_2_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/cfd28a2ece6250d8aee1c82fcf44235a_4pPggNBGK88.vtt
+  video_captions_file: /courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/cfd28a2ece6250d8aee1c82fcf44235a_4pPggNBGK88.vtt
   video_thumbnail_file: https://img.youtube.com/vi/4pPggNBGK88/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/8b81d155c9f0ae83e36324a242345e46_4pPggNBGK88.pdf
+  video_transcript_file: /courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/8b81d155c9f0ae83e36324a242345e46_4pPggNBGK88.pdf
 video_metadata:
   youtube_id: 4pPggNBGK88
 ---

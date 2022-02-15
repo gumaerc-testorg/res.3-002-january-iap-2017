@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: fe3d440e-4ef3-219b-98c9-2717cf29b3ac
 ---
@@ -52,20 +54,6 @@ Assessment
 ### Grade Breakdown
 
 There were no grades associated with this course.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Classroom with students sitting at rectangular tables arranged in rows. Students are working on laptops. Wires and other hardware are on the tables.]({{< resource_file e139d43c-ba1b-7b49-452a-d0704ba7fb20 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Workshop
-    
-    Workshop sessions were held in a classroom with large moveable tables.
-    
 
 Curriculum Information
 ----------------------

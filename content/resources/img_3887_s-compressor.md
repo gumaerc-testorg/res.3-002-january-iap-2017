@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/ad23f461bb9b3e30c298a919e60b8c5a_IMG_3887_s-compressor.jpg
+file: /media/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/ad23f461bb9b3e30c298a919e60b8c5a_IMG_3887_s-compressor.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Practical Tips for Facilitating Hands-On Learning
+parent_type: CourseSection
 resourcetype: Image
 title: IMG_3887_s-compressor.jpg
 uid: ad23f461-bb9b-3e30-c298-a919e60b8c5a

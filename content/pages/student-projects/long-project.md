@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Student Projects
+parent_type: SupplementalResourceSection
 parent_uid: 85e6f97e-119a-7ed5-84a9-d15e7dd123c5
 title: Long Project
 uid: 1c2103b6-50f0-c9ce-847b-c90df277563d

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/fddba617ac9fbf60728e736b95525f6e_SP8.jpg
+file: /media/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/fddba617ac9fbf60728e736b95525f6e_SP8.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Short Project
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: SP8.jpg
 uid: fddba617-ac9f-bf60-728e-736b95525f6e

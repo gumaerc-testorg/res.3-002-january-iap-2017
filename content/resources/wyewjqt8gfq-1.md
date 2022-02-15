@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/1add885cb6c7c0dc1910ef139acd3e1a_WyEwjQt8gfQ.pdf
+file: /media/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/1add885cb6c7c0dc1910ef139acd3e1a_WyEwjQt8gfQ.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 1add885c-b6c7-c0dc-1910-ef139acd3e1a

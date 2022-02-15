@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: fe3d440e-4ef3-219b-98c9-2717cf29b3ac
 title: Cultivating a Culture of Collaboration
 uid: ba03281e-1589-9ed0-e5df-3d7d87889977

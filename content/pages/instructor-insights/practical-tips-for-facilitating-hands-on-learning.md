@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: fe3d440e-4ef3-219b-98c9-2717cf29b3ac
 title: Practical Tips for Facilitating Hands-On Learning
 uid: 7144c264-a36c-b324-2bcf-c7c0a6f01451
