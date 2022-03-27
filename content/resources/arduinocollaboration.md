@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Collaboration
 parent_type: SupplementalResourceSection
+parent_uid: 9124cfc0-9ac5-8d6a-28b7-dc1f57821864
 resourcetype: Image
 title: ArduinoCollaboration.jpg
 uid: 8b123e12-8d8e-17ee-bb37-fe51a56ac1dd

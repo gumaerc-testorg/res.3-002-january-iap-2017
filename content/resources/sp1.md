@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Short Project
 parent_type: SupplementalResourceSection
+parent_uid: 4fcb6c5c-f2b5-5ff4-ff98-27ef482f2f0c
 resourcetype: Image
 title: Short Project 1
 uid: 65da1e0f-4600-f611-fa0e-8f74c21291b3

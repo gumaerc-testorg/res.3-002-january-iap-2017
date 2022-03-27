@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Projects
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Long Project 2: Hand Motion Controlled Car'
 uid: 43bce616-5b42-46eb-9ee6-3bd6bd2cf45e
 video_files:

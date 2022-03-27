@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Long Project
 parent_type: SupplementalResourceSection
+parent_uid: 1c2103b6-50f0-c9ce-847b-c90df277563d
 resourcetype: Image
 title: Long Project 5
 uid: 55b86be3-a920-c227-a424-a7c52b03d6c5

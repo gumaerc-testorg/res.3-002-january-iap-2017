@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Projects
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Long Project 3: LED Framed Light Display Part 1'
 uid: 5914f5c0-38a9-ffa8-0df1-232cd536a9c9
 video_files:

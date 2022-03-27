@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Host Your Own Workshop
 parent_type: SupplementalResourceSection
+parent_uid: 982acb1c-944f-4f00-82f3-6fa489737b9e
 resourcetype: Document
 title: Collaborative Design with Arduino 2017 Workshop Flyer
 uid: 2d52044e-14ec-e26c-ed58-1eb1a6a94b10

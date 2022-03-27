@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Practical Tips for Facilitating Hands-On Learning
 parent_type: CourseSection
+parent_uid: 7144c264-a36c-b324-2bcf-c7c0a6f01451
 resourcetype: Image
 title: IMG_3846_s-compressor.jpg
 uid: 83b8cd8e-8302-5525-04bc-89ba46eeb64c
