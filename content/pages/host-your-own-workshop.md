@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
+parent_uid: null
 title: Host Your Own Workshop
 uid: 982acb1c-944f-4f00-82f3-6fa489737b9e
 ---
@@ -21,9 +22,9 @@ For the course we created a [single repo](https://mens-et-manus.github.io/archiv
 Promotion
 ---------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2017 Workshop Flyer (PDF — 1.1MB)]({{< baseurl >}}/resources/mitres_3_002iap17_flyer_17)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 2d52044e-14ec-e26c-ed58-1eb1a6a94b10 "2017 Workshop Flyer (PDF — 1.1MB)" >}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2016 Workshop Flyer (PDF)]({{< baseurl >}}/resources/mitres_3_002iap17_flyer_16)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link f067b2c5-0f3e-68d1-1a5b-437d0f786f55 "2016 Workshop Flyer (PDF)" >}}
 
 Hardware
 --------

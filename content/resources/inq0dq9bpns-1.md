@@ -5,6 +5,7 @@ file: /media/courses/res-3-002-collaborative-design-and-creative-expression-with
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: edea9cc3-d990-17f8-f473-5e746a5cb895

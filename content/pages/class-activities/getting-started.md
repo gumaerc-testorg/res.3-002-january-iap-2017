@@ -28,7 +28,7 @@ Introductions
 
 The goal of this first activity is to get students comfortable enough to form a group of 2–4 students. Since this is the first time the students are meeting, and the class is built around group projects, it is important to give the students some fodder for connection. The first way to facilitate this is through the usual activity of asking each student to tell the whole group a few factoids about themselves, such as what they study in school, why they came to the class, if they have any previous experience with the technologies, and what their favorite one-handed food is. During this type of introduction, it is helpful to give a list of items for each student to speak about, this helps shy students have structure for introducing themselves and helps gregarious students stay within a reasonable time.
 
-Once the group has done some intros, they should feel a bit more comfortable. To further facilitate the social mobility of the group, we employ some simple group activities that are commonly used by improv theater troupes to open dialogue, build bonds, and help students shake out some of their jitters. This also helps the students to further connect with the instructors of the course. This [improv game](http://wiki.improvresourcecenter.com/index.php?title=Red_Ball) is [Red Ball]({{< baseurl >}}/resources/red-ball-during-class). 
+Once the group has done some intros, they should feel a bit more comfortable. To further facilitate the social mobility of the group, we employ some simple group activities that are commonly used by improv theater troupes to open dialogue, build bonds, and help students shake out some of their jitters. This also helps the students to further connect with the instructors of the course. This [improv game](http://wiki.improvresourcecenter.com/index.php?title=Red_Ball) is {{< resource_link 667b602a-6cd2-89fc-9dcf-514809125ec4 "Red Ball" >}}. 
 
 {{< tableopen >}}
 {{< tropen >}}
@@ -38,7 +38,7 @@ Once the group has done some intros, they should feel a bit more comfortable. To
 {{< tdopen >}}
 
 
- **[Getting Started: Introducing Introductions]({{< baseurl >}}/resources/introducing-introductions)**
+ **{{< resource_link 7692d6a8-40f5-6c98-2275-30be6da535da "Getting Started: Introducing Introductions" >}}**
 
 Kyle Keane describes the first ice breaker of the class and how we will manage the task of having everyone introduce themselves.  
 
@@ -53,7 +53,7 @@ Kyle Keane describes the first ice breaker of the class and how we will manage t
 {{< tdopen >}}
 
 
-﻿**[Getting Started: Icebreaker]({{< baseurl >}}/resources/icebreaker)**
+﻿**{{< resource_link 4507fcc1-8655-720a-44f5-3c9368baf4ec "Getting Started: Icebreaker" >}}**
 
 Kyle Keane describes a basic icebreaker for the class to introduce themselves to each other by providing information about things like where they are from, their favorite food, and what they hope to do in the class.  
 

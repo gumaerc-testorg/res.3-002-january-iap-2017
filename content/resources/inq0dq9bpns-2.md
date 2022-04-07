@@ -5,6 +5,7 @@ file: /media/courses/res-3-002-collaborative-design-and-creative-expression-with
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Other
 title: 3play caption file
 uid: 52ec68fd-56e5-57d6-8f75-75815c6a94ab

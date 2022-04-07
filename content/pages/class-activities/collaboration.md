@@ -31,7 +31,7 @@ For the modern technique of collaborating on software projects, we have included
 {{< tdopen >}}
 
 
-﻿**[Collaboration: Introduction to Git/GitHub]({{< baseurl >}}/resources/introduction-to-git-github)**
+﻿**{{< resource_link a0df9910-7619-78e2-ddd6-0f612e0fee4b "Collaboration: Introduction to Git/GitHub" >}}**
 
 Andrew Ringler provides an overview of the GitHub software collaboration toolset. We use Git and specifically Github to facilitate collaboration and documentation within and between groups. This video introduces students to concepts of collaboration with Git.  
 
@@ -46,7 +46,7 @@ Andrew Ringler provides an overview of the GitHub software collaboration toolset
 {{< tdopen >}}
 
 
-﻿**[Collaboration: Red Ball During Class]({{< baseurl >}}/resources/red-ball-during-class)**
+﻿**{{< resource_link 667b602a-6cd2-89fc-9dcf-514809125ec4 "Collaboration: Red Ball During Class" >}}**
 
 Kyle Keane leads the class in an improv comedy activity called “red ball” in order to help students become more comfortable with each other and get to express themselves a bit non-verbally.  
 
