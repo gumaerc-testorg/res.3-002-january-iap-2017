@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Projects
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Long Project
 parent_type: SupplementalResourceSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '0'
 title: 'Long Project 1: Awesome Light Show Touch Game'
 uid: 496865f0-82ee-43c2-e2aa-a815c43d550b
 video_files:
@@ -25,3 +26,6 @@ video_metadata:
 ---
 
 In this video, one of the student teams demonstrates their project, a light show touch game which is synced to a counter that keeps score, everytime you touch the red box (which randomly changes position). They talk about the different things they learnt over the course of the project.
+
+
+

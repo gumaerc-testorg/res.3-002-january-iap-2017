@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section Kyle Keane and Andrew Ringler describe various aspects
+  of how they teach RES.3-002 Collaborative Design and Creative Expression with Arduino
+  Microcontrollers.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -17,7 +20,7 @@ The Importance of Teamwork
 
 We believe collaborating with other people is an enjoyable part of life. It’s also critical. As technology becomes more complicated, it’s growing increasingly less feasible to do any significant project alone. An important aspect of the Arduino workshop is helping participants learn comfortable ways to form teams and to function productively within them. In fact, in naming the workshop, “Collaborative Design with Arduino Microcontrollers,” we intentionally put the word “collaborative” first in the title; participants use Arduinos to program microcontrollers, but engaging in teamwork is really the focus of the workshop experience.
 
-![Close up image of students standing in a circle.]({{< resource_file 1aaf9a19-abba-6b46-7977-3f082d007099 >}})
+{{< resource 1aaf9a19-abba-6b46-7977-3f082d007099 >}}
 
 Participants preparing for an improv exercise. (Image by H. Sharon Lin, MIT OpenCourseWare.)
 

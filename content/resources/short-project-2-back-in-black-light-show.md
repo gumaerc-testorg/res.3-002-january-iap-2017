@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Short Project
 parent_type: SupplementalResourceSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Short Project 2: Back in Black Light Show'
 uid: ec3975c4-049e-608c-b21f-8d5d38a035da
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 In this video, one of the student teams demonstrates their project, an Arduino based light and sound show, which is programmed using the Processing IDE. They use the sound library to sync the lights with music. Components used - Arduino Mega, Jumpers, Breadboard, LEDs.
+
+
+

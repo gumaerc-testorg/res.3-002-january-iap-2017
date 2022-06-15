@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section two participants in RES.3-002 Collaborative Design and
+  Creative Expression with Arduino Microcontrollers share their impressions of the
+  workshop and offer advice to future participants.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -12,7 +15,7 @@ uid: c299c14e-3cbc-0962-875c-e14575422e09
 
 _Below, two participants_ _share their impressions of the workshop and offer advice for future participants_.
 
-![Several students sitting around a rectangular table. They’re manipulating electronics.]({{< resource_file 6969f234-541b-fa78-21ba-3883e810d0c5 >}})
+{{< resource 6969f234-541b-fa78-21ba-3883e810d0c5 >}}
 
 Workshop participants hard at work on their collaborative designs. (Image by H. Sharon Lin, MIT OpenCourseWare.)
 

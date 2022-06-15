@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Projects
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Long Project
 parent_type: SupplementalResourceSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '0'
 title: 'Long Project 4: Punching Glove'
 uid: 50020546-bb37-7825-10a4-8e54bba44d44
 video_files:
@@ -25,3 +26,6 @@ video_metadata:
 ---
 
 In this video, one of student team demonstrates their project, a punching glove which measures various metrics such as the intensity of your punches and the speed and number of punches and so on. The students discuss a host of possible applications and features that they can add to the glove, given more time.
+
+
+

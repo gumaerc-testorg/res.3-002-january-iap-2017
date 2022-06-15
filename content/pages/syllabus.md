@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This page provides the course policy and class schedule for the MIT 2017
+  IAP course Collaborative Design and Creative Expression with Arduino Microcontroller,
+  taught by Kyle Keane, Andrew Ringler, Abhinav Gandhi, and Mark Vrablic.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
-parent_uid: null
 title: Syllabus
 uid: c7b44b83-b387-0777-91fa-a6b429cef8f0
 ---

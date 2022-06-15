@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Projects
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Long Project
 parent_type: SupplementalResourceSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '0'
 title: 'Long Project 2: Hand Motion Controlled Car'
 uid: 43bce616-5b42-46eb-9ee6-3bd6bd2cf45e
 video_files:
@@ -25,3 +26,6 @@ video_metadata:
 ---
 
 In this video, one of the student teams demonstrates their project, a gesture controlled car. Unfortunately, they were not able to integrate the entire project, but they have all the different working parts for the project. This shows us it is important to learn how to collaborate. Most of us have all the “tech skills” requried, however if we cannot collaborate with the team, our efforts will go in vain. That being, said the team did a great job of trying to take on an ambitious project.
+
+
+

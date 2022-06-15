@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Projects
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Long Project
 parent_type: SupplementalResourceSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '0'
 title: 'Long Project 5: Quadcopter'
 uid: 1d3b537f-3a87-cce7-d377-efbe022a7de9
 video_files:
@@ -25,3 +26,6 @@ video_metadata:
 ---
 
 In this video, one of the student team talks about how quadcopters can be useful in daily lives. They try to build a quadcopter from scratch which was not possible with the limited time and budget. However they were able to borrow some parts from friends at MITERS and put together a quadcopter that they demonstrated.
+
+
+

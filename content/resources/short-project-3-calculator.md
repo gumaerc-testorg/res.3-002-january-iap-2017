@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Short Project
 parent_type: SupplementalResourceSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Short Project 3: Calculator'
 uid: 5c2b82e4-0a2b-a234-f87e-f22eb623a9b0
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 In this video, one of the student teams demonstrates their project, an Arduino based calculator that can do simple additions and displays the sum on a dial. Components used: Arduino Mega, LEDs, Breadboard, Jumpers, Servo.
+
+
+

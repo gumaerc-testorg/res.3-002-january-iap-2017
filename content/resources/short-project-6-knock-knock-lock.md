@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Short Project
 parent_type: SupplementalResourceSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Short Project 6: Knock Knock Lock'
 uid: 7714ebfd-3200-da3a-9e9f-471c6b421215
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 In this video, one of the student teams demonstrates their project, a sound activated safe lock. The lock is triggered by using a combination of claps that can be programmed as per the user’s preference. On entering the wrong combination more than thrice, a combination of alarm sirens and flashing lights are triggered.
+
+
+

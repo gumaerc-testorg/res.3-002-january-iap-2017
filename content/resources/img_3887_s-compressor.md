@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/ad23f461bb9b3e30c298a919e60b8c5a_IMG_3887_s-compressor.jpg
+file: /courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/ad23f461bb9b3e30c298a919e60b8c5a_IMG_3887_s-compressor.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/77f9f0105243c1a90309c9151b6403c6_ArduinoShortProject.jpg
+file: /courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/77f9f0105243c1a90309c9151b6403c6_ArduinoShortProject.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

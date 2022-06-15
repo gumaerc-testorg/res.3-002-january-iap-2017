@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page includes further information from tutorials provided in the
+  MIT 2017 IAP course Collaborative Design and Creative Expression with Arduino Microcontroller,
+  taught by Kyle Keane, Andrew Ringler, Abhinav Gandhi, and Mark Vrablic.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Class Activities
@@ -16,7 +19,7 @@ Over the course of the class students are introduced to various electronic compo
 
 Instructors demonstrate and explain the basic purpose of each of these components and walk them through the specific software library that is used to incorporate such hardware in their code. Instructors can use the Arduino website to see more [class videos and tutorials](https://www.arduino.cc/en/Tutorial/HomePage).
 
-![Two students connecting wires and circuits, working on their electronic prototyping project]({{< resource_file 0ffde6b8-7cde-f647-6022-97a17ce3c398 >}})  
+{{< resource 0ffde6b8-7cde-f647-6022-97a17ce3c398 >}}  
 
 Students work on prototyping their Arduino project. (Image by H. Sharon Lin, MIT OpenCourseWare.)
 

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Getting Started
 parent_type: SupplementalResourceSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Icebreaker
 uid: 4507fcc1-8655-720a-44f5-3c9368baf4ec
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 Kyle Keane describes a basic icebreaker for the class to introduce themselves to each other by providing information about things like where they are from, their favorite food, and what they hope to do in the class.
+
+
+

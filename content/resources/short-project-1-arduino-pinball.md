@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Short Project
 parent_type: SupplementalResourceSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Short Project 1: Arduino Pinball'
 uid: 63115462-c41f-1525-ae40-dc74ffb3322d
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 In this video, one of the student teams demonstrates their project, an Arduino Baseball game. Components used - Arduino UNO, Potentiometer, Jumpers, Breadboard and Cardboard.
+
+
+

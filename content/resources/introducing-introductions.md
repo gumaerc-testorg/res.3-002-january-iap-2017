@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Getting Started
 parent_type: SupplementalResourceSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Introducing Introductions
 uid: 7692d6a8-40f5-6c98-2275-30be6da535da
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 Kyle Keane describes the first ice breaker of the class and how we will manage the task of having everyone introduce themselves.
+
+
+
