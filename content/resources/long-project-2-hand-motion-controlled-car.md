@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 ---
 
 In this video, one of the student teams demonstrates their project, a gesture controlled car. Unfortunately, they were not able to integrate the entire project, but they have all the different working parts for the project. This shows us it is important to learn how to collaborate. Most of us have all the “tech skills” requried, however if we cannot collaborate with the team, our efforts will go in vain. That being, said the team did a great job of trying to take on an ambitious project.
-
-
 

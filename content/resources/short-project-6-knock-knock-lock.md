@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -25,6 +26,4 @@ video_metadata:
 ---
 
 In this video, one of the student teams demonstrates their project, a sound activated safe lock. The lock is triggered by using a combination of claps that can be programmed as per the user’s preference. On entering the wrong combination more than thrice, a combination of alarm sirens and flashing lights are triggered.
-
-
 

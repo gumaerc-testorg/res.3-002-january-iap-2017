@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -25,6 +26,4 @@ video_metadata:
 ---
 
 In this video, one of the student teams demonstrates their project, an IR bike lock. The bike lock can be triggered using an infrared remote control. Components: IR receivers, IR remote control, LEDs, Cardboard, Arduino UNO, Breadboard.
-
-
 

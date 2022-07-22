@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 ---
 
 In this video, one of the student teams demonstrates their project, a light show touch game which is synced to a counter that keeps score, everytime you touch the red box (which randomly changes position). They talk about the different things they learnt over the course of the project.
-
-
 
