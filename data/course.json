@@ -45,8 +45,10 @@
     "website": "res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017"
   },
   "learning_resource_types": [
-    "Projects with Examples"
+    "Projects with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "32e1f112-8b25-47cb-8e2d-34942f816beb",
+  "site_uid": "1d0a57b8-ca0e-4b6c-94b9-ae59408c9b33",
+  "site_short_id": "res.3-002-january-iap-2017",
   "title": "Course Metadata"
 }
