@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/a7380845f0b3061918c5ea11a9d7fcf0_GettingStartedIcebreaker.jpg
+file_size: 2720
 file_type: image/jpeg
 image_metadata:
   caption: ''
