@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/1aaf9a19abba6b4679773f082d007099_Improv3_s-compressor.jpg
+file_size: 13398
 file_type: image/jpeg
 image_metadata:
   caption: ''
