@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/a2ab93f74b235be5e2a2173bca542f0b_XmpKWntLzPQ.srt
+file: /ol-ocw-studio-app/courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/a2ab93f74b235be5e2a2173bca542f0b_XmpKWntLzPQ.srt
 file_size: 2999
 file_type: application/x-subrip
 learning_resource_types: []
