@@ -17,7 +17,7 @@ Summary
 
 Over the course of the class students are introduced to various electronic components such as, actuators: DC motors and servos; sensors: Temperature, humidity, clap, knock, IR, moisture, flame, motion; LEDs, buttons and so on, that can be interfaced with Arduino.
 
-Instructors demonstrate and explain the basic purpose of each of these components and walk them through the specific software library that is used to incorporate such hardware in their code. Instructors can use the Arduino website to see more {{% resource_link "c43a32d9-2db7-43b4-afe0-0d98b8a54111" "class videos and tutorials" %}}.
+Instructors demonstrate and explain the basic purpose of each of these components and walk them through the specific software library that is used to incorporate such hardware in their code. Instructors can use the Arduino website to see more [class videos and tutorials](https://www.arduino.cc/en/Tutorial/HomePage).
 
 {{< resource 0ffde6b8-7cde-f647-6022-97a17ce3c398 >}}  
 

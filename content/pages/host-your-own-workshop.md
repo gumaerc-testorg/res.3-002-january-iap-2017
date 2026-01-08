@@ -17,9 +17,9 @@ The following materials were used to plan this IAP course in January 2017.
 Github
 ------
 
-We were sponsored by {{% resource_link "200a7377-a889-49bb-ad03-e05ecd963593" "GitHub Education" %}} with free private repos.
+We were sponsored by [GitHub Education](https://education.github.com/) with free private repos.
 
-For the course we created a {{% resource_link "5a48ed71-7d91-4447-8ece-6d7917c0fab2" "single repo" %}} and gave every student access to it. We populated it with simple html templates and folders for each student and group. The {{% resource_link "cc6710c9-da8f-4aae-b29f-3259b4594cac" "single repo of 2016 IAP" %}} provides additional archived information for the workshop in 2016.
+For the course we created a [single repo](https://mens-et-manus.github.io/archive/2017-IAP-Arduino-Unity/) and gave every student access to it. We populated it with simple html templates and folders for each student and group. The [single repo of 2016 IAP](https://mens-et-manus.github.io/archive/2016-IAP-Arduino/) provides additional archived information for the workshop in 2016.
 
 Promotion
 ---------
@@ -70,9 +70,9 @@ We setup a mailing list for the course and signed up students for the list. This
 
 We are looking forward to meeting everyone.
 
-Before arriving on the first day please download and install the {{% resource_link "8220f25a-948b-4638-9360-03615b807ac9" "Arduino IDE" %}} on the laptop computer you will be using for the class.
+Before arriving on the first day please download and install the [Arduino IDE](http://www.arduino.cc/en/Main/Software) on the laptop computer you will be using for the class.
 
-We will do a brief intro to Github as one option for collaborating with others on your projects, so please also download the {{% resource_link "7d2bce45-c06b-4d52-bb5c-3334412fecd8" "GitHub" %}} client and setup a github account if you do not already have one.
+We will do a brief intro to Github as one option for collaborating with others on your projects, so please also download the [GitHub](http://desktop.github.com/) client and setup a github account if you do not already have one.
 
 We will walk you through an introductory Arduino tutorial about building a digitally-controlled flashlight the first few days, then you will break out into teams for a small two day project meant to help you learn through collaboration. We'll present the course outline in more detail during the first day."
 
@@ -86,7 +86,7 @@ Your budget is $40/person. So a larger team has a larger budget. You can also sh
 
 Also, please add all of your Arduino code for the mini-projects to your team folder on GitHub.
 
-Feel free to document your circuits using {{% resource_link "ee0581f6-2848-4f3a-9e47-3d08ad48c9ea" "Fritzing" %}}, and/or photograph your breadboard.
+Feel free to document your circuits using [Fritzing](http://fritzing.org/home/), and/or photograph your breadboard.
 
 And upload to Github."
 
